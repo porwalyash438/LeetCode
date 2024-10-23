@@ -9,11 +9,13 @@
 | [0075-sort-colors](https://github.com/porwalyash438/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/porwalyash438/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/porwalyash438/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/porwalyash438/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/porwalyash438/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/porwalyash438/LeetCode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/porwalyash438/LeetCode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -49,4 +51,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/porwalyash438/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/porwalyash438/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
