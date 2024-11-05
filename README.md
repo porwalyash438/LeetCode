@@ -11,6 +11,7 @@
 | [0169-majority-element](https://github.com/porwalyash438/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/porwalyash438/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/porwalyash438/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/porwalyash438/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,4 +56,12 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/porwalyash438/LeetCode/tree/master/0189-rotate-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/porwalyash438/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/porwalyash438/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
