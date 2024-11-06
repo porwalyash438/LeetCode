@@ -11,6 +11,7 @@
 | [0169-majority-element](https://github.com/porwalyash438/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/porwalyash438/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/porwalyash438/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/porwalyash438/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/porwalyash438/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/porwalyash438/LeetCode/tree/master/0035-search-insert-position) |
+| [1046-max-consecutive-ones-iii](https://github.com/porwalyash438/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -61,10 +63,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/porwalyash438/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/porwalyash438/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/porwalyash438/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/porwalyash438/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/porwalyash438/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## String
 |  |
