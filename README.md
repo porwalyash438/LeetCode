@@ -30,6 +30,7 @@
 | ------- |
 | [0136-single-number](https://github.com/porwalyash438/LeetCode/tree/master/0136-single-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/porwalyash438/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [3394-minimum-array-end](https://github.com/porwalyash438/LeetCode/tree/master/3394-minimum-array-end) |
 ## Hash Table
 |  |
 | ------- |
