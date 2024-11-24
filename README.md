@@ -12,6 +12,7 @@
 | [0189-rotate-array](https://github.com/porwalyash438/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/porwalyash438/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/porwalyash438/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/porwalyash438/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/porwalyash438/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/porwalyash438/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/porwalyash438/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -28,6 +29,7 @@
 | [0075-sort-colors](https://github.com/porwalyash438/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/porwalyash438/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/porwalyash438/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/porwalyash438/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/porwalyash438/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/porwalyash438/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/porwalyash438/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/porwalyash438/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,6 +53,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/porwalyash438/LeetCode/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/porwalyash438/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +76,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/porwalyash438/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/porwalyash438/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/porwalyash438/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/porwalyash438/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/porwalyash438/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/porwalyash438/LeetCode/tree/master/1755-defuse-the-bomb) |
