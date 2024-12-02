@@ -27,6 +27,7 @@
 | [0075-sort-colors](https://github.com/porwalyash438/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/porwalyash438/LeetCode/tree/master/0189-rotate-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/porwalyash438/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/porwalyash438/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Sorting
 |  |
 | ------- |
@@ -100,4 +101,9 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/porwalyash438/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/porwalyash438/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/porwalyash438/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
