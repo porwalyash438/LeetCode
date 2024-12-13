@@ -24,6 +24,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/porwalyash438/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2232-adding-spaces-to-a-string](https://github.com/porwalyash438/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/porwalyash438/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/porwalyash438/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/porwalyash438/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/porwalyash438/LeetCode/tree/master/3427-special-array-ii) |
 ## Two Pointers
@@ -46,6 +47,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/porwalyash438/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/porwalyash438/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/porwalyash438/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/porwalyash438/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/porwalyash438/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/porwalyash438/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/porwalyash438/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/porwalyash438/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/porwalyash438/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Divide and Conquer
 |  |
@@ -89,6 +92,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/porwalyash438/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/porwalyash438/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Quickselect
 |  |
 | ------- |
@@ -133,6 +137,7 @@
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/porwalyash438/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/porwalyash438/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Greedy
 |  |
 | ------- |
