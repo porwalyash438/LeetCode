@@ -151,6 +151,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/porwalyash438/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/porwalyash438/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/porwalyash438/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
@@ -158,4 +159,16 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/porwalyash438/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/porwalyash438/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/porwalyash438/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/porwalyash438/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/porwalyash438/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
