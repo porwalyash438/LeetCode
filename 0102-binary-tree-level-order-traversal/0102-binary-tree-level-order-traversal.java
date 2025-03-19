@@ -13,44 +13,28 @@
  *     }
  * }
  */
-
- import java.util.*;
-
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode(int val) { this.val = val; }
-}
-
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
-       List<List<Integer>> ans = new ArrayList<>();
+       Queue<TreeNode> queue = new LinkedList<>();
+       List<List<Integer>> wraplist = new LinkedList<List<Integer>>();
        if(root == null){
-        return ans;
+        return wraplist;
        } 
-
-       Queue<TreeNode> temp = new LinkedList<>();
-        temp.add(root);
-
-        
-        while(!temp.isEmpty()){
-            ArrayList<Integer> ls = new ArrayList<>();
-            int size=temp.size();
-            for(int i=0;i<size;i++){
-                TreeNode t = temp.poll();
-
-                if(t.left != null){
-                    temp.add(t.left);
-                }
-
-                if(t.right != null){
-                    temp.add(t.right);
-                }
-                ls.add(t.val);
+       queue.offer(root);
+       while(!queue.isEmpty()){
+        int size=queue.size();
+        List<Integer> sublist = new LinkedList<Integer>();
+        for(int i=0;i<size;i++){
+            if(queue.peek().left != null){
+                queue.offer(queue.peek().left);
             }
-            ans.add(ls);
+            if(queue.peek().right != null){
+                queue.offer(queue.peek().right);
+            }
+            sublist.add(queue.poll().val);
         }
-        return ans;
+        wraplist.add(sublist);
+       }
+       return wraplist;
     }
 }
