@@ -115,6 +115,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/porwalyash438/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/porwalyash438/LeetCode/tree/master/0189-rotate-array) |
+| [2998-count-symmetric-integers](https://github.com/porwalyash438/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/porwalyash438/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sliding Window
 |  |
@@ -261,4 +262,8 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/porwalyash438/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/porwalyash438/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/porwalyash438/LeetCode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
