@@ -154,6 +154,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/porwalyash438/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0058-length-of-last-word](https://github.com/porwalyash438/LeetCode/tree/master/0058-length-of-last-word) |
 | [0316-remove-duplicate-letters](https://github.com/porwalyash438/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/porwalyash438/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/porwalyash438/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
