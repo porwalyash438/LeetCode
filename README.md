@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/porwalyash438/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/porwalyash438/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/porwalyash438/LeetCode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/porwalyash438/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/porwalyash438/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/porwalyash438/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/porwalyash438/LeetCode/tree/master/0189-rotate-array) |
@@ -310,6 +311,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/porwalyash438/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/porwalyash438/LeetCode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/porwalyash438/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/porwalyash438/LeetCode/tree/master/0542-01-matrix) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/porwalyash438/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
