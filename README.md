@@ -132,6 +132,7 @@
 | [0067-add-binary](https://github.com/porwalyash438/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/porwalyash438/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/porwalyash438/LeetCode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/porwalyash438/LeetCode/tree/master/0258-add-digits) |
 | [2998-count-symmetric-integers](https://github.com/porwalyash438/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/porwalyash438/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/porwalyash438/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -174,6 +175,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/porwalyash438/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/porwalyash438/LeetCode/tree/master/0258-add-digits) |
 | [2232-adding-spaces-to-a-string](https://github.com/porwalyash438/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/porwalyash438/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/porwalyash438/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -349,4 +351,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/porwalyash438/LeetCode/tree/master/0070-climbing-stairs) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/porwalyash438/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
