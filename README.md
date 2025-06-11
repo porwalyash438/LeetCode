@@ -158,6 +158,7 @@
 | [1755-defuse-the-bomb](https://github.com/porwalyash438/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/porwalyash438/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/porwalyash438/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/porwalyash438/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/porwalyash438/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2145-grid-game](https://github.com/porwalyash438/LeetCode/tree/master/2145-grid-game) |
 | [3427-special-array-ii](https://github.com/porwalyash438/LeetCode/tree/master/3427-special-array-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/porwalyash438/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## String
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/porwalyash438/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/porwalyash438/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/porwalyash438/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/porwalyash438/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -336,6 +339,7 @@
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/porwalyash438/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/porwalyash438/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/porwalyash438/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
