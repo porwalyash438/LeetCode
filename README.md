@@ -44,6 +44,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/porwalyash438/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/porwalyash438/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/porwalyash438/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/porwalyash438/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Two Pointers
 |  |
 | ------- |
