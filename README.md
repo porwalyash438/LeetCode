@@ -144,6 +144,7 @@
 | [0189-rotate-array](https://github.com/porwalyash438/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/porwalyash438/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/porwalyash438/LeetCode/tree/master/0258-add-digits) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/porwalyash438/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/porwalyash438/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/porwalyash438/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/porwalyash438/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -202,6 +203,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/porwalyash438/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/porwalyash438/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/porwalyash438/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/porwalyash438/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Stack
 |  |
 | ------- |
