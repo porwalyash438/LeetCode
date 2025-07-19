@@ -33,6 +33,7 @@
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/porwalyash438/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1940-maximum-xor-for-each-query](https://github.com/porwalyash438/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/porwalyash438/LeetCode/tree/master/1975-minimum-distance-to-the-target-element) |
+| [2104-operations-on-tree](https://github.com/porwalyash438/LeetCode/tree/master/2104-operations-on-tree) |
 | [2145-grid-game](https://github.com/porwalyash438/LeetCode/tree/master/2145-grid-game) |
 | [2215-finding-3-digit-even-numbers](https://github.com/porwalyash438/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2232-adding-spaces-to-a-string](https://github.com/porwalyash438/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -92,6 +93,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/porwalyash438/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/porwalyash438/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/porwalyash438/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2104-operations-on-tree](https://github.com/porwalyash438/LeetCode/tree/master/2104-operations-on-tree) |
 | [2215-finding-3-digit-even-numbers](https://github.com/porwalyash438/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/porwalyash438/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/porwalyash438/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -252,6 +254,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/porwalyash438/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/porwalyash438/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/porwalyash438/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [2104-operations-on-tree](https://github.com/porwalyash438/LeetCode/tree/master/2104-operations-on-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -278,6 +281,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/porwalyash438/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/porwalyash438/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/porwalyash438/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [2104-operations-on-tree](https://github.com/porwalyash438/LeetCode/tree/master/2104-operations-on-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -324,6 +328,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/porwalyash438/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/porwalyash438/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/porwalyash438/LeetCode/tree/master/1036-rotting-oranges) |
+| [2104-operations-on-tree](https://github.com/porwalyash438/LeetCode/tree/master/2104-operations-on-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -394,4 +399,8 @@
 |  |
 | ------- |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/porwalyash438/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+## Design
+|  |
+| ------- |
+| [2104-operations-on-tree](https://github.com/porwalyash438/LeetCode/tree/master/2104-operations-on-tree) |
 <!---LeetCode Topics End-->
