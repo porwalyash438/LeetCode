@@ -142,6 +142,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/porwalyash438/LeetCode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/porwalyash438/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/porwalyash438/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/porwalyash438/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/porwalyash438/LeetCode/tree/master/0070-climbing-stairs) |
@@ -396,6 +397,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/porwalyash438/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/porwalyash438/LeetCode/tree/master/0231-power-of-two) |
 ## Combinatorics
 |  |
