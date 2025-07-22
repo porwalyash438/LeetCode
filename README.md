@@ -150,6 +150,7 @@
 | [0189-rotate-array](https://github.com/porwalyash438/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/porwalyash438/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/porwalyash438/LeetCode/tree/master/0258-add-digits) |
+| [0390-elimination-game](https://github.com/porwalyash438/LeetCode/tree/master/0390-elimination-game) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/porwalyash438/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/porwalyash438/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/porwalyash438/LeetCode/tree/master/2998-count-symmetric-integers) |
@@ -399,6 +400,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/porwalyash438/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/porwalyash438/LeetCode/tree/master/0231-power-of-two) |
+| [0390-elimination-game](https://github.com/porwalyash438/LeetCode/tree/master/0390-elimination-game) |
 ## Combinatorics
 |  |
 | ------- |
