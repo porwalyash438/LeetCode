@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/porwalyash438/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/porwalyash438/LeetCode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/porwalyash438/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/porwalyash438/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/porwalyash438/LeetCode/tree/master/0075-sort-colors) |
@@ -51,6 +52,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/porwalyash438/LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/porwalyash438/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/porwalyash438/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/porwalyash438/LeetCode/tree/master/0344-reverse-string) |
@@ -212,6 +214,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/porwalyash438/LeetCode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/porwalyash438/LeetCode/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/porwalyash438/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/porwalyash438/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
