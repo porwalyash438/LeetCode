@@ -49,6 +49,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/porwalyash438/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/porwalyash438/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/porwalyash438/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/porwalyash438/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/porwalyash438/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/porwalyash438/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/porwalyash438/LeetCode/tree/master/3427-special-array-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/porwalyash438/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -211,6 +213,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/porwalyash438/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/porwalyash438/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/porwalyash438/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/porwalyash438/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -417,4 +420,12 @@
 |  |
 | ------- |
 | [2104-operations-on-tree](https://github.com/porwalyash438/LeetCode/tree/master/2104-operations-on-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/porwalyash438/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/porwalyash438/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
