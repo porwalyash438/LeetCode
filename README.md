@@ -83,6 +83,7 @@
 | [0089-gray-code](https://github.com/porwalyash438/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/porwalyash438/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/porwalyash438/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/porwalyash438/LeetCode/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/porwalyash438/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1940-maximum-xor-for-each-query](https://github.com/porwalyash438/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2308-divide-array-into-equal-pairs](https://github.com/porwalyash438/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -157,6 +158,7 @@
 | [0189-rotate-array](https://github.com/porwalyash438/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/porwalyash438/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/porwalyash438/LeetCode/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/porwalyash438/LeetCode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/porwalyash438/LeetCode/tree/master/0390-elimination-game) |
 | [0795-k-th-symbol-in-grammar](https://github.com/porwalyash438/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/porwalyash438/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -410,6 +412,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/porwalyash438/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/porwalyash438/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/porwalyash438/LeetCode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/porwalyash438/LeetCode/tree/master/0390-elimination-game) |
 | [0795-k-th-symbol-in-grammar](https://github.com/porwalyash438/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 ## Combinatorics
