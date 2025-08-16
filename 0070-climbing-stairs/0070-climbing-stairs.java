@@ -1,17 +1,24 @@
 class Solution {
-    public int climbStairs(int n) {
-        if (n <= 3) return n;
-
-        int prev1 = 3;
-        int prev2 = 2;
-        int cur = 0;
-
-        for (int i = 3; i < n; i++) {
-            cur = prev1 + prev2;
-            prev2 = prev1;
-            prev1 = cur;
+    public int solve(int n, int memo[]){
+        if(n == 0 || n == 1){
+            return 1;
         }
+        if(n < 0){
+            return 0;
+        }
+        if(memo[n] != -1){
+            return  memo[n];
+        }
+        int oneStep = solve(n-1,memo);
+        int twoStep = solve(n-2,memo);
 
-        return cur;        
+        return memo[n] = oneStep + twoStep;
+    }
+    public int climbStairs(int n) {
+        int memo[] = new int[46];
+        for(int i=0;i<46;i++){
+            Arrays.fill(memo,-1);
+        }
+        return solve(n,memo);
     }
 }
