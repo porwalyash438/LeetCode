@@ -413,6 +413,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/porwalyash438/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/porwalyash438/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/porwalyash438/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/porwalyash438/LeetCode/tree/master/0342-power-of-four) |
@@ -434,4 +435,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/porwalyash438/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/porwalyash438/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
