@@ -56,6 +56,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/porwalyash438/LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/porwalyash438/LeetCode/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/porwalyash438/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0189-rotate-array](https://github.com/porwalyash438/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/porwalyash438/LeetCode/tree/master/0344-reverse-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/porwalyash438/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -439,4 +440,5 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/porwalyash438/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/porwalyash438/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
