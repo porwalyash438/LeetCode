@@ -173,6 +173,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/porwalyash438/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/porwalyash438/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/porwalyash438/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3830-find-closest-person](https://github.com/porwalyash438/LeetCode/tree/master/3830-find-closest-person) |
 ## Sliding Window
 |  |
 | ------- |
