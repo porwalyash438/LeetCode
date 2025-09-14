@@ -207,6 +207,7 @@
 | [0067-add-binary](https://github.com/porwalyash438/LeetCode/tree/master/0067-add-binary) |
 | [0316-remove-duplicate-letters](https://github.com/porwalyash438/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/porwalyash438/LeetCode/tree/master/0344-reverse-string) |
+| [1078-remove-outermost-parentheses](https://github.com/porwalyash438/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/porwalyash438/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/porwalyash438/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/porwalyash438/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -247,6 +248,7 @@
 | [0316-remove-duplicate-letters](https://github.com/porwalyash438/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/porwalyash438/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/porwalyash438/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/porwalyash438/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
