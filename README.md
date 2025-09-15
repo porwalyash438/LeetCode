@@ -108,6 +108,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/porwalyash438/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0843-binary-trees-with-factors](https://github.com/porwalyash438/LeetCode/tree/master/0843-binary-trees-with-factors) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/porwalyash438/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/porwalyash438/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/porwalyash438/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2104-operations-on-tree](https://github.com/porwalyash438/LeetCode/tree/master/2104-operations-on-tree) |
 | [2215-finding-3-digit-even-numbers](https://github.com/porwalyash438/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -209,6 +210,7 @@
 | [0344-reverse-string](https://github.com/porwalyash438/LeetCode/tree/master/0344-reverse-string) |
 | [1078-remove-outermost-parentheses](https://github.com/porwalyash438/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/porwalyash438/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/porwalyash438/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/porwalyash438/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/porwalyash438/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/porwalyash438/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
