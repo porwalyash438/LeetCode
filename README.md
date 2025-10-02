@@ -181,6 +181,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/porwalyash438/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/porwalyash438/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/porwalyash438/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3336-water-bottles-ii](https://github.com/porwalyash438/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/porwalyash438/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/porwalyash438/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3830-find-closest-person](https://github.com/porwalyash438/LeetCode/tree/master/3830-find-closest-person) |
@@ -236,6 +237,7 @@
 | [0258-add-digits](https://github.com/porwalyash438/LeetCode/tree/master/0258-add-digits) |
 | [2232-adding-spaces-to-a-string](https://github.com/porwalyash438/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/porwalyash438/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3336-water-bottles-ii](https://github.com/porwalyash438/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/porwalyash438/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/porwalyash438/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
