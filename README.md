@@ -33,6 +33,7 @@
 | [0902-minimum-number-of-refueling-stops](https://github.com/porwalyash438/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1036-rotting-oranges](https://github.com/porwalyash438/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/porwalyash438/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1073-number-of-enclaves](https://github.com/porwalyash438/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/porwalyash438/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/porwalyash438/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/porwalyash438/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -325,6 +326,7 @@
 | [0871-keys-and-rooms](https://github.com/porwalyash438/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/porwalyash438/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/porwalyash438/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/porwalyash438/LeetCode/tree/master/1073-number-of-enclaves) |
 | [2104-operations-on-tree](https://github.com/porwalyash438/LeetCode/tree/master/2104-operations-on-tree) |
 ## Binary Tree
 |  |
@@ -375,6 +377,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/porwalyash438/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/porwalyash438/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/porwalyash438/LeetCode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/porwalyash438/LeetCode/tree/master/1073-number-of-enclaves) |
 | [2104-operations-on-tree](https://github.com/porwalyash438/LeetCode/tree/master/2104-operations-on-tree) |
 ## Matrix
 |  |
@@ -384,6 +387,7 @@
 | [0542-01-matrix](https://github.com/porwalyash438/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/porwalyash438/LeetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/porwalyash438/LeetCode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/porwalyash438/LeetCode/tree/master/1073-number-of-enclaves) |
 | [2145-grid-game](https://github.com/porwalyash438/LeetCode/tree/master/2145-grid-game) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/porwalyash438/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/porwalyash438/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -420,6 +424,7 @@
 | [0130-surrounded-regions](https://github.com/porwalyash438/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/porwalyash438/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/porwalyash438/LeetCode/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/porwalyash438/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
