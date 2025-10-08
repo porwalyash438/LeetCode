@@ -325,6 +325,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/porwalyash438/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/porwalyash438/LeetCode/tree/master/0733-flood-fill) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/porwalyash438/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0801-is-graph-bipartite](https://github.com/porwalyash438/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/porwalyash438/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/porwalyash438/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/porwalyash438/LeetCode/tree/master/1035-cousins-in-binary-tree) |
@@ -376,6 +377,7 @@
 | [0547-number-of-provinces](https://github.com/porwalyash438/LeetCode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/porwalyash438/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/porwalyash438/LeetCode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/porwalyash438/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/porwalyash438/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/porwalyash438/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/porwalyash438/LeetCode/tree/master/1035-cousins-in-binary-tree) |
@@ -427,11 +429,13 @@
 | [0130-surrounded-regions](https://github.com/porwalyash438/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/porwalyash438/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/porwalyash438/LeetCode/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/porwalyash438/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/porwalyash438/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/porwalyash438/LeetCode/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/porwalyash438/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/porwalyash438/LeetCode/tree/master/0871-keys-and-rooms) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/porwalyash438/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/porwalyash438/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
