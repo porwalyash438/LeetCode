@@ -36,6 +36,7 @@
 | [1073-number-of-enclaves](https://github.com/porwalyash438/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/porwalyash438/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/porwalyash438/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/porwalyash438/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1755-defuse-the-bomb](https://github.com/porwalyash438/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/porwalyash438/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1940-maximum-xor-for-each-query](https://github.com/porwalyash438/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
@@ -225,6 +226,7 @@
 | [1250-longest-common-subsequence](https://github.com/porwalyash438/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/porwalyash438/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/porwalyash438/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/porwalyash438/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2232-adding-spaces-to-a-string](https://github.com/porwalyash438/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/porwalyash438/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/porwalyash438/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -253,6 +255,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/porwalyash438/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/porwalyash438/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/porwalyash438/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/porwalyash438/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/porwalyash438/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/porwalyash438/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Stack
@@ -407,6 +410,7 @@
 | [0843-binary-trees-with-factors](https://github.com/porwalyash438/LeetCode/tree/master/0843-binary-trees-with-factors) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/porwalyash438/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1250-longest-common-subsequence](https://github.com/porwalyash438/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/porwalyash438/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Enumeration
 |  |
 | ------- |
