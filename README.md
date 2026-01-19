@@ -33,6 +33,7 @@
 | [0843-binary-trees-with-factors](https://github.com/porwalyash438/LeetCode/tree/master/0843-binary-trees-with-factors) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/porwalyash438/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/porwalyash438/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0997-find-the-town-judge](https://github.com/porwalyash438/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1036-rotting-oranges](https://github.com/porwalyash438/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/porwalyash438/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/porwalyash438/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -119,6 +120,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/porwalyash438/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0843-binary-trees-with-factors](https://github.com/porwalyash438/LeetCode/tree/master/0843-binary-trees-with-factors) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/porwalyash438/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0997-find-the-town-judge](https://github.com/porwalyash438/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/porwalyash438/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/porwalyash438/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/porwalyash438/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -510,4 +512,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/porwalyash438/LeetCode/tree/master/0014-longest-common-prefix) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/porwalyash438/LeetCode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
