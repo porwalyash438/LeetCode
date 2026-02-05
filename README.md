@@ -54,6 +54,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/porwalyash438/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/porwalyash438/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/porwalyash438/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3379-transformed-array](https://github.com/porwalyash438/LeetCode/tree/master/3379-transformed-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/porwalyash438/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/porwalyash438/LeetCode/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/porwalyash438/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -255,6 +256,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/porwalyash438/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/porwalyash438/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3336-water-bottles-ii](https://github.com/porwalyash438/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/porwalyash438/LeetCode/tree/master/3379-transformed-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/porwalyash438/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/porwalyash438/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
