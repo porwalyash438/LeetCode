@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/porwalyash438/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/porwalyash438/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/porwalyash438/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/porwalyash438/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/porwalyash438/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/porwalyash438/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/porwalyash438/LeetCode/tree/master/0075-sort-colors) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/porwalyash438/LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/porwalyash438/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/porwalyash438/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/porwalyash438/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/porwalyash438/LeetCode/tree/master/0141-linked-list-cycle) |
