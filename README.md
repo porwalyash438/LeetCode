@@ -53,6 +53,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/porwalyash438/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/porwalyash438/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/porwalyash438/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2460-apply-operations-to-an-array](https://github.com/porwalyash438/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/porwalyash438/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/porwalyash438/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/porwalyash438/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -81,6 +82,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/porwalyash438/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/porwalyash438/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/porwalyash438/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2460-apply-operations-to-an-array](https://github.com/porwalyash438/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/porwalyash438/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Sorting
 |  |
@@ -258,6 +260,7 @@
 | [0067-add-binary](https://github.com/porwalyash438/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/porwalyash438/LeetCode/tree/master/0258-add-digits) |
 | [2232-adding-spaces-to-a-string](https://github.com/porwalyash438/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2460-apply-operations-to-an-array](https://github.com/porwalyash438/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/porwalyash438/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3336-water-bottles-ii](https://github.com/porwalyash438/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/porwalyash438/LeetCode/tree/master/3379-transformed-array) |
