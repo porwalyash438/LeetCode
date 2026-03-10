@@ -23,6 +23,7 @@
 | [0200-number-of-islands](https://github.com/porwalyash438/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/porwalyash438/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/porwalyash438/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/porwalyash438/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/porwalyash438/LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/porwalyash438/LeetCode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/porwalyash438/LeetCode/tree/master/0542-01-matrix) |
@@ -90,6 +91,7 @@
 | [0075-sort-colors](https://github.com/porwalyash438/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/porwalyash438/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/porwalyash438/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/porwalyash438/LeetCode/tree/master/0268-missing-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/porwalyash438/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/porwalyash438/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0843-binary-trees-with-factors](https://github.com/porwalyash438/LeetCode/tree/master/0843-binary-trees-with-factors) |
@@ -106,6 +108,7 @@
 | [0089-gray-code](https://github.com/porwalyash438/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/porwalyash438/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/porwalyash438/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/porwalyash438/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/porwalyash438/LeetCode/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/porwalyash438/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1940-maximum-xor-for-each-query](https://github.com/porwalyash438/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
@@ -123,6 +126,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/porwalyash438/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/porwalyash438/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/porwalyash438/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/porwalyash438/LeetCode/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/porwalyash438/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/porwalyash438/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0843-binary-trees-with-factors](https://github.com/porwalyash438/LeetCode/tree/master/0843-binary-trees-with-factors) |
@@ -159,6 +163,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/porwalyash438/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/porwalyash438/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/porwalyash438/LeetCode/tree/master/0268-missing-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/porwalyash438/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/porwalyash438/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/porwalyash438/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -194,6 +199,7 @@
 | [0189-rotate-array](https://github.com/porwalyash438/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/porwalyash438/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/porwalyash438/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/porwalyash438/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/porwalyash438/LeetCode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/porwalyash438/LeetCode/tree/master/0390-elimination-game) |
 | [0795-k-th-symbol-in-grammar](https://github.com/porwalyash438/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
