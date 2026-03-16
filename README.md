@@ -16,6 +16,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/porwalyash438/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/porwalyash438/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/porwalyash438/LeetCode/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/porwalyash438/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/porwalyash438/LeetCode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/porwalyash438/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/porwalyash438/LeetCode/tree/master/0136-single-number) |
@@ -126,6 +127,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/porwalyash438/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/porwalyash438/LeetCode/tree/master/0013-roman-to-integer) |
 | [0127-word-ladder](https://github.com/porwalyash438/LeetCode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/porwalyash438/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/porwalyash438/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/porwalyash438/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/porwalyash438/LeetCode/tree/master/0169-majority-element) |
@@ -544,4 +546,8 @@
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/porwalyash438/LeetCode/tree/master/0997-find-the-town-judge) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/porwalyash438/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
