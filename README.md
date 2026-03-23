@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/porwalyash438/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/porwalyash438/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/porwalyash438/LeetCode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/porwalyash438/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/porwalyash438/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/porwalyash438/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/porwalyash438/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -199,6 +200,7 @@
 | [0007-reverse-integer](https://github.com/porwalyash438/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/porwalyash438/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/porwalyash438/LeetCode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/porwalyash438/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/porwalyash438/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/porwalyash438/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/porwalyash438/LeetCode/tree/master/0067-add-binary) |
@@ -432,6 +434,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/porwalyash438/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/porwalyash438/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/porwalyash438/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/porwalyash438/LeetCode/tree/master/0200-number-of-islands) |
