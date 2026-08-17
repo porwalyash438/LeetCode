@@ -11,6 +11,7 @@
 | [0015-3sum](https://github.com/porwalyash438/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/porwalyash438/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/porwalyash438/LeetCode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/porwalyash438/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/porwalyash438/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/porwalyash438/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/porwalyash438/LeetCode/tree/master/0066-plus-one) |
@@ -79,6 +80,7 @@
 | [0011-container-with-most-water](https://github.com/porwalyash438/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/porwalyash438/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/porwalyash438/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/porwalyash438/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/porwalyash438/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/porwalyash438/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/porwalyash438/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -309,6 +311,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/porwalyash438/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/porwalyash438/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/porwalyash438/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/porwalyash438/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -319,6 +322,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/porwalyash438/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/porwalyash438/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/porwalyash438/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Tree
@@ -455,6 +459,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/porwalyash438/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/porwalyash438/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/porwalyash438/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/porwalyash438/LeetCode/tree/master/0118-pascals-triangle) |
